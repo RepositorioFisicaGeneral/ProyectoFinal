@@ -1,0 +1,12 @@
+edu\proyectofinal\harmonicmotion\DatosMovimiento.class
+edu\proyectofinal\harmonicmotion\GraficadorDatos.class
+edu\proyectofinal\harmonicmotion\DatosMovimiento$Medicion.class
+edu\proyectofinal\harmonicmotion\DatosMovimiento$DatosParticula.class
+edu\proyectofinal\harmonicmotion\CalculadoraPeriodo.class
+edu\proyectofinal\harmonicmotion\AplicacionPrincipal.class
+edu\proyectofinal\harmonicmotion\AjusteMinimosCuadrados$ResultadoAjuste.class
+edu\proyectofinal\harmonicmotion\CalculadoraConstanteResorte.class
+edu\proyectofinal\harmonicmotion\CalculadoraPeriodo$ResultadoPeriodo.class
+edu\proyectofinal\harmonicmotion\SimuladorMasa9m.class
+edu\proyectofinal\harmonicmotion\CalculadoraConstanteResorte$ResultadoConstanteResorte.class
+edu\proyectofinal\harmonicmotion\AjusteMinimosCuadrados.class
