@@ -56,3 +56,5 @@ git push -u origin branch_dev_3
 3. En cada rama implementa o modifica la parte que te corresponda
    (coeficiente A, coeficiente B, errores) y luego abre **Pull Requests**
    desde cada `branch_dev_*` hacia `main` para que tu profesor pueda revisar.
+   > Cambios realizados en branch_dev_2 para la semana 4.
+
